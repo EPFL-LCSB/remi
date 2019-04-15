@@ -7,7 +7,7 @@ Manuscript :
 
 URL : https://www.biorxiv.org/content/10.1101/481499
 
-
+The simulation data needed to reproduce the results of the manuscript are available at https://doi.org/10.5281/zenodo.2640689.
 
 ## Folder organisation
 
